@@ -79,7 +79,7 @@ I enjoy automating analysis workflows and simulating real-world attacks to stren
 | CompTIA Security+ | CompTIA | 2024 |
 | Certified SOC Analyst (CSA) | EC-Council | 2025 |
 | Cyber Defense Path | TryHackMe | 2025 |
-| Google Cybersecurity Certificate | Google | 2024 |
+| <a href="https://www.coursera.org/account/accomplishments/professional-cert/Q3R6A0A0Z48L">Google Cybersecurity Certificate</a> | Google | 2024 |
 
 ---
 
