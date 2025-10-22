@@ -79,17 +79,17 @@ I enjoy automating analysis workflows and simulating real-world attacks to stren
 | CompTIA Security+ | CompTIA | 2024 |
 | Certified SOC Analyst (CSA) | EC-Council | 2025 |
 | Cyber Defense Path | TryHackMe | 2025 |
-| <a href="https://www.coursera.org/account/accomplishments/professional-cert/Q3R6A0A0Z48L">Google Cybersecurity Certificate</a> | Google | 2024 |
+| <a href="https://www.coursera.org/account/accomplishments/professional-cert/Q3R6A0A0Z48L" target="_blank">Google Cybersecurity Certificate</a> | Google | 2024 |
 
 ---
 
 ## 🧩 Platforms & Labs  
 
 <p align="center">
-  <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-Red?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
-  <a href="https://hackthebox.com"><img src="https://img.shields.io/badge/Hack_The_Box-black?style=for-the-badge&logo=hackthebox"></a>
-  <a href="https://blueteamlabs.online"><img src="https://img.shields.io/badge/Blue_Team_Labs_Online-blue?style=for-the-badge"></a>
-  <a href="https://attack.mitre.org"><img src="https://img.shields.io/badge/MITRE_ATTACK_Framework-orange?style=for-the-badge"></a>
+  <a href="https://tryhackme.com" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-Red?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+  <a href="https://hackthebox.com" target="_blank"><img src="https://img.shields.io/badge/Hack_The_Box-black?style=for-the-badge&logo=hackthebox"></a>
+  <a href="https://blueteamlabs.online" target="_blank"><img src="https://img.shields.io/badge/Blue_Team_Labs_Online-blue?style=for-the-badge"></a>
+  <a href="https://attack.mitre.org" target="_blank"><img src="https://img.shields.io/badge/MITRE_ATTACK_Framework-orange?style=for-the-badge"></a>
 </p>
 
 ---
@@ -97,8 +97,8 @@ I enjoy automating analysis workflows and simulating real-world attacks to stren
 ## 📫 Contact  
 
 <p align="center">
-  <a href="mailto:shahwaizalikhan00@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/muhammad-shahwaiz-ali-khan-5150332b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:shahwaizalikhan00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/muhammad-shahwaiz-ali-khan-5150332b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
