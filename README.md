@@ -43,25 +43,10 @@ I enjoy automating analysis workflows and simulating real-world attacks to stren
 
 ## 🚀 Featured Projects  
 
-### 🔹 <a href="https://github.com/ShahwaizAliKhan/Splunk-Log-Analysis/blob/main/README.md" target="_blank">DNS Log Analysis using Splunk</a>(#)  
+### 🔹 <a href="https://github.com/ShahwaizAliKhan/Splunk-Log-Analysis/blob/main/README.md" target="_blank">DNS Log Analysis using Splunk</a>  
 📜 **Description:** Performed DNS traffic monitoring and anomaly detection through log parsing, visualization, and alerting in Splunk.  
 🧰 **Tools:** Splunk · DNS Logs · Data Visualization  
 📈 **Impact:** Improved network visibility and early detection of suspicious DNS activities.
-
-
----
-
-### 🔹 [Network Traffic Analyzer](#)  
-📜 **Description:** Built a packet inspection tool using Scapy for anomaly detection.  
-🧰 **Tools:** Python · Wireshark · Scapy  
-📈 **Impact:** Detected and blocked multiple malicious IP patterns.  
-
----
-
-### 🔹 [Web App Security Lab](#)  
-📜 **Description:** Simulated real-world attacks on OWASP Juice Shop & implemented mitigations.  
-🧰 **Tools:** Burp Suite · OWASP ZAP · DVWA  
-📈 **Outcome:** Gained practical web app vulnerability testing experience.  
 
 ---
 
