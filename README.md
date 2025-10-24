@@ -76,9 +76,9 @@ I enjoy automating analysis workflows and simulating real-world attacks to stren
 
 | Certification | Issuer | Year |
 |----------------|---------|------|
-| <a href="https://media.licdn.com/dms/image/v2/D4D22AQHdBYnsbHNHVQ/feedshare-shrink_2048_1536/B4DZoV1YbNJAA0-/0/1761302908019?e=1762992000&v=beta&t=Ulh4i-fSoDq8-jvMAOxr0w8_33Ea9ggkOe-SMVnrlNw">Information and Network Security</a> | CISCO | 2025 |
+| <a href="https://media.licdn.com/dms/image/v2/D4D22AQHdBYnsbHNHVQ/feedshare-shrink_2048_1536/B4DZoV1YbNJAA0-/0/1761302908019?e=1762992000&v=beta&t=Ulh4i-fSoDq8-jvMAOxr0w8_33Ea9ggkOe-SMVnrlNw" target="_blank">Information and Network Security</a> | CISCO | 2025 |
 | <a href="https://www.coursera.org/account/accomplishments/professional-cert/Q3R6A0A0Z48L" target="_blank">Google Cybersecurity Certificate</a> | Google | 2025 |
-| <a href="https://media.licdn.com/dms/image/v2/D4D22AQGT57lMVGdJ8g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1716918098039?e=1762992000&v=beta&t=cKWcqIg8JuowRnDlglQg9G1PUqB7ko1-a4Pl7toGQzY">CCNAv7:Introduction to Networks</a> | CISCO | 2024 |
+| <a href="https://media.licdn.com/dms/image/v2/D4D22AQGT57lMVGdJ8g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1716918098039?e=1762992000&v=beta&t=cKWcqIg8JuowRnDlglQg9G1PUqB7ko1-a4Pl7toGQzY" target="_blank">CCNAv7:Introduction to Networks</a> | CISCO | 2024 |
 
 ---
 
