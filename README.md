@@ -43,10 +43,11 @@ I enjoy automating analysis workflows and simulating real-world attacks to stren
 
 ## 🚀 Featured Projects  
 
-### 🔹 [SOC Automation with Python](#)  
-📜 **Description:** Automated log triage and alert enrichment using Elastic Stack APIs.  
-🧰 **Tools:** Python · ELK · REST API  
-📈 **Impact:** Reduced manual SOC workload by 40%.  
+### 🔹 <a href="https://github.com/ShahwaizAliKhan/Splunk-Log-Analysis/blob/main/README.md" target="_blank">DNS Log Analysis using Splunk</a>(#)  
+📜 **Description:** Performed DNS traffic monitoring and anomaly detection through log parsing, visualization, and alerting in Splunk.  
+🧰 **Tools:** Splunk · DNS Logs · Data Visualization  
+📈 **Impact:** Improved network visibility and early detection of suspicious DNS activities.
+
 
 ---
 
