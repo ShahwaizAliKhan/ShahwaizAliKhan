@@ -21,14 +21,14 @@ I enjoy automating analysis workflows and simulating real-world attacks to stren
 ## ⚙️ Technical Arsenal  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SIEM-Splunk-orange?style=for-the-badge&logo=splunk">
-  <img src="https://img.shields.io/badge/ELK-Stack-blue?style=for-the-badge&logo=elastic">
-  <img src="https://img.shields.io/badge/Wazuh-purple?style=for-the-badge&logo=wazuh">
-  <img src="https://img.shields.io/badge/Wireshark-lightblue?style=for-the-badge&logo=wireshark">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Bash-green?style=for-the-badge&logo=gnu-bash">
-  <img src="https://img.shields.io/badge/Kali_Linux-gray?style=for-the-badge&logo=kalilinux">
-  <img src="https://img.shields.io/badge/AWS_Security-orange?style=for-the-badge&logo=amazonaws">
+  <img src="https://img.shields.io/badge/SIEM-Splunk-orange?style=for-the-badge&logo=splunk" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/ELK-Stack-blue?style=for-the-badge&logo=elastic" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Wazuh-purple?style=for-the-badge&logo=wazuh" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Wireshark-lightblue?style=for-the-badge&logo=wireshark" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Bash-green?style=for-the-badge&logo=gnu-bash" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Kali_Linux-gray?style=for-the-badge&logo=kalilinux" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/AWS_Security-orange?style=for-the-badge&logo=amazonaws" style="pointer-events: none;">
 </p>
 
 | Category | Tools / Skills |
