@@ -33,12 +33,11 @@ I enjoy automating analysis workflows and simulating real-world attacks to stren
 
 | Category | Tools / Skills |
 |-----------|----------------|
-| **SIEM & Monitoring** | Splunk · Wazuh · ELK Stack · QRadar |
-| **Pen Testing & Analysis** | Burp Suite · OWASP ZAP · Metasploit · Nmap |
+| **SIEM & Monitoring** | Splunk · Wazuh |
+| **Threat Detection & Analysis** | Burp Suite · Nessus · Nmap · SQLMAp|
 | **Scripting & Automation** | Python · Bash · PowerShell |
-| **Network Forensics** | Wireshark · Zeek · Suricata |
-| **Threat Detection** | Sigma Rules · YARA · Snort |
-| **Cloud & IAM Security** | AWS · Azure Defender |
+| **Network Forensics** | Wireshark · Suricata · tcpdump|
+| **Cloud & IAM Security** | AWS |
 
 ---
 
